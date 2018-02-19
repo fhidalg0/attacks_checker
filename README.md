@@ -1,19 +1,6 @@
-# Checker
+# Attacks Checker
 
->>>```
-> ______  __    __                    __                ____     __                     __
->/\  _  \/\ \__/\ \__                /\ \              /\  _`\  /\ \                   /\ \
->\ \ \L\ \ \ ,_\ \ ,_\    __      ___\ \ \/'\    ____  \ \ \/\_\\ \ \___      __    ___\ \ \/'\      __   _ __
-> \ \  __ \ \ \/\ \ \/  /'__`\   /'___\ \ , <   /',__\  \ \ \/_/_\ \  _ `\  /'__`\ /'___\ \ , <    /'__`\/\`'__\
->  \ \ \/\ \ \ \_\ \ \_/\ \L\.\_/\ \__/\ \ \\`\/\__, `\  \ \ \L\ \\ \ \ \ \/\  __//\ \__/\ \ \\`\ /\  __/\ \ \/
->   \ \_\ \_\ \__\\ \__\ \__/.\_\ \____\\ \_\\ \/\____/   \ \____/ \ \_\ \_\ \____\ \____\\ \_\ \_\ \____\\ \_\
->    \/_/\/_/\/__/ \/__/\/__/\/_/\/____/ \/_/\/_/\/___/    \/___/   \/_/\/_/\/____/\/____/ \/_/\/_/\/____/ \/_/
->
->```
-
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/checker`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Asynchronous Apache Logs parser, with different strategies and payloads.
 
 ## Installation
 
@@ -34,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Execute:
+
     $ bin/checker
 
 ## Development
